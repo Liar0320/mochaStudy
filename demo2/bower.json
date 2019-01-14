@@ -1,0 +1,17 @@
+{
+  "name": "demo2-karma-angularjs",
+  "description": "",
+  "main": "sideBar.js",
+  "authors": [
+    "Liar0320 <100108350@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Liar0320/mochaStudy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
