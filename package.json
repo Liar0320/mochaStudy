@@ -1,0 +1,19 @@
+{
+  "name": "mochastudy",
+  "version": "1.0.0",
+  "description": "> -- [Mochajs.org](https://mochajs.org/)\r > -- [Mochajs.org](https://www.chaijs.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liar0320/mochaStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liar0320/mochaStudy/issues"
+  },
+  "homepage": "https://github.com/Liar0320/mochaStudy#readme"
+}
